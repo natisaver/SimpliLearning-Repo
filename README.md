@@ -1,5 +1,11 @@
-Hi welcome to my simple file finder app,
-this automatically finds the src root directory and targets a folder called images which contains 3 png files.
+**Hi welcome to my simple file finder app,**
 
-You have 4 options, list the items, delete an item, search and item or exit.
+The program will automatically find its own root directory
+It then targets a folder called "images" which contains 3 png files that you can act on.
+
+You have 4 options, 
+1) list the items
+2) delete an item
+3) search an item 
+4) or exit.
 
